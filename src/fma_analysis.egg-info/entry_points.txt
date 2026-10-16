@@ -1,0 +1,3 @@
+[console_scripts]
+fma-analyze = fma_analysis.cli:main
+fma-pairs = fma_analysis.genre_pair_analysis:main
