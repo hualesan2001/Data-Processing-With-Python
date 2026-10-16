@@ -1,0 +1,13 @@
+tqdm==4.67.3
+numpy==2.4.3
+pandas==3.0.1
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+librosa==0.11.0
+kneed==0.8.6
+seaborn==0.13.2
+wordcloud==1.9.6
+jupyterlab==4.5.8
+ipykernel==7.3.0
+nbconvert==7.17.1
